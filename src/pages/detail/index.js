@@ -9,6 +9,8 @@ export function Detail() {
   const route = useRoute();
   const navigation = useNavigation();
 
+  // Serve para vereficar se tem um Parametro de Nome nos dados da Data, se tiver, o Header é alterado para o Nome do Parametro,
+  // caso não tenha, irá manter o texto 'Detalhes da receita'.
   useLayoutEffect(() => {
     navigation.setOptions({
       title: route.params?.data
