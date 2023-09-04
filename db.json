@@ -1,261 +1,262 @@
 {
   "foods": [
-    { 
+    {
       "id": "1",
-      "name":  "Strogonoff",
-      "total_ingredients": "4",
-      "time": 40,
-      "cover": "https://i.imgur.com/or7Phgi.jpeg",
-      "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
-      "ingredients": [
-        {
-          "id": "1",
-          "name": "Carne Patinho",
-          "amount": "400g"
-        },
-        {
-          "id": "2",
-          "name": "Arroz branco",
-          "amount": "2 xícaras"
-        },
-        {
-          "id": "3",
-          "name": "Molho de tomate",
-          "amount": "1 pacote 150g"
-        },
-        {
-          "id": "4",
-          "name": "Creme de leite",
-          "amount": "1 caixa"
-        }
-      ],
-      "instructions": [
-        {
-          "id": "1",
-          "text": "Em uma panela, misture a carne, o alho, a maionese, o sal e a pimenta."
-        },
-        {
-          "id": "2",
-          "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
-        },
-        {
-          "id": "3",
-          "text": "Junte o frango temperado até que esteja dourado."
-        },
-        {
-          "id": "4",
-          "text": "Adicione os cogumelos, o ketchup e a mostarda."
-        },
-        {
-          "id": "5",
-          "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
-        },
-        {
-          "id": "6",
-          "text": "Sirva com arroz branco e batata palha."
-        }
-      ]
-    },
-    { 
-      "id": "2",
-      "name": "Strogonoff Frango",
-      "total_ingredients": "5",
-      "time": 60,
-      "cover": "https://i.imgur.com/ITYi8kH.png",
-      "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
-      "ingredients": [
-        {
-          "id": "1",
-          "name": "Frango (patinho)",
-          "amount": "700g"
-        },
-        {
-          "id": "2",
-          "name": "Arroz branco",
-          "amount": "2 xícaras"
-        },
-        {
-          "id": "3",
-          "name": "Molho de tomate",
-          "amount": "1 pacote 150g"
-        },
-        {
-          "id": "4",
-          "name": "Creme de leite",
-          "amount": "1 caixa"
-        },
-        {
-          "id": "5",
-          "name": "Ketchup",
-          "amount": "1 colher (chá)"
-        }
-      ],
-      "instructions": [
-        {
-          "id": "1",
-          "text": "Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta."
-        },
-        {
-          "id": "2",
-          "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
-        },
-        {
-          "id": "3",
-          "text": "Junte o frango temperado até que esteja dourado."
-        },
-        {
-          "id": "4",
-          "text": "Adicione os cogumelos, o ketchup."
-        },
-        {
-          "id": "5",
-          "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
-        },
-        {
-          "id": "6",
-          "text": "Sirva com arroz branco e batata palha."
-        }
-      ]
-    },
-    { 
-      "id": "3",
-      "name":  "Pizza calabresa",
+      "name": "Esfiha Fechada",
       "total_ingredients": "6",
-      "time": 120,
-      "cover": "https://i.imgur.com/MRaJXNH.jpg",
-      "video":"https://youtu.be/AexaqeVdkF0",
+      "time": 40,
+      "cover": "https://i.ytimg.com/vi/NtmGwskpiIQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=y9yKuT1m9LI",
       "ingredients": [
         {
           "id": "1",
-          "name": "Massa de pizza",
+          "name": "Fermento biológico",
+          "amount": "30g"
+        },
+        {
+          "id": "2",
+          "name": "Leite morno",
+          "amount": "1 copo"
+        },
+        {
+          "id": "3",
+          "name": "Açucar",
+          "amount": "1 colher"
+        },
+        {
+          "id": "4",
+          "name": "Sal",
+          "amount": "1 pitada"
+        },
+        {
+          "id": "5",
+          "name": "Óleo",
+          "amount": "½ xicara"
+        },
+        {
+          "id": "6",
+          "name": "Ovo",
+          "amount": "1"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Coleque em uma tigela o fermento e dissolva no leite morno."
+        },
+        {
+          "id": "2",
+          "text": "Acrescente o sal, açucar e 2 xícaras de farinha de trigo, misture e deixe descansar."
+        },
+        {
+          "id": "3",
+          "text": "Adicione o ovo, óleo e o restante da farinha, misture até soltar das mãos."
+        },
+        {
+          "id": "4",
+          "text": "Modele as esfihas, e coloque o recheio."
+        },
+        {
+          "id": "5",
+          "text": "Pincele a gema do ovo por cima e leve ao forno até dourar."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Torta de Verdura",
+      "total_ingredients": "9",
+      "time": 60,
+      "cover": "https://www.receitasdecomida.com.br/wp-content/uploads/2013/08/torta-salgada-de-verduras-1595.jpg",
+      "video": "https://www.youtube.com/watch?v=y9yKuT1m9LI",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Queijo ralado",
+          "amount": "2 colheres"
+        },
+        {
+          "id": "2",
+          "name": "Ovo",
+          "amount": "4"
+        },
+        {
+          "id": "3",
+          "name": "Pimenta",
+          "amount": "1"
+        },
+        {
+          "id": "4",
+          "name": "Tomate",
+          "amount": "3"
+        },
+        {
+          "id": "5",
+          "name": "Cebola",
+          "amount": "1"
+        },
+        {
+          "id": "6",
+          "name": "Coentro",
+          "amount": "1"
+        },
+        {
+          "id": "7",
+          "name": "Óleo",
+          "amount": "2 xícaras"
+        },
+        {
+          "id": "8",
+          "name": "Farinha de trigo",
+          "amount": "3 xícaras"
+        },
+        {
+          "id": "9",
+          "name": "Sal",
+          "amount": "1 pitada"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Pique todas as verduras e bata todos os outros na batedeira."
+        },
+        {
+          "id": "2",
+          "text": "Acrescente as verduras, coloque numa forma untada e polvilhada."
+        },
+        {
+          "id": "3",
+          "text": "Por fim, leve ao forno e aguarde ficar pronto."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Rocombole",
+      "total_ingredients": "4",
+      "time": 120,
+      "cover": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/c390f7572db6774bd6b3134580c7ea27.jpg",
+      "video": "https://youtu.be/AexaqeVdkF0",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Margarina",
           "amount": "1"
         },
         {
           "id": "2",
-          "name": "Molho de tomate",
-          "amount": "1 pacote 250g"
+          "name": "Açucar",
+          "amount": "Mesma qtd. da margarina"
         },
         {
           "id": "3",
-          "name": "Queijo",
-          "amount": "350g"
+          "name": "Farinha de trigo",
+          "amount": "Mesma qtd. da margarina"
         },
         {
           "id": "4",
-          "name": "Calabresa",
-          "amount": "300g"
-        },
-        {
-          "id": "5",
-          "name": "Orégano",
-          "amount": "À gosto"
-        },
-        {
-          "id": "6",
-          "name": "Cebola",
-          "amount": "À gosto"
+          "name": "Ovo",
+          "amount": "6"
         }
       ],
       "instructions": [
         {
           "id": "1",
-          "text": "Passe o molho de toma em cima da massa com uma colher."
+          "text": "Junte a margarina com o açucar, mecha bem e acescente as gemas e a farinha."
         },
         {
           "id": "2",
-          "text": "Coloque o queijo sobre toda massa."
+          "text": "Por último, adicione as claras em neve."
         },
         {
           "id": "3",
-          "text": "Adicione a calabesa sobre o queijo."
+          "text": "Coloque em uma forma untada e leve ao forno."
         },
         {
           "id": "4",
-          "text": "Coloque as cebolas cortadas em rodelas sobre a pizza."
-        },
-        {
-          "id": "5",
-          "text": "Adicione orégano (à gosto)."
-        },
-        {
-          "id": "6",
-          "text": "Leve ao forno quente em torno de 15 a 20 minutos."
+          "text": "OBS: O recheio fica a seu gosto."
         }
       ]
     },
-    { 
+    {
       "id": "4",
-      "name":  "Massa de Pastel",
-      "total_ingredients": "6",
+      "name": "Empadão",
+      "total_ingredients": "7",
       "time": 30,
-      "cover": "https://i.imgur.com/HUEssUh.jpg",
-      "video":"https://www.youtube.com/watch?v=y9yKuT1m9LI",
+      "cover": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/empadao-frango-tradicional-catupiry.jpg",
+      "video": "https://www.youtube.com/watch?v=y9yKuT1m9LI",
       "ingredients": [
         {
           "id": "1",
-          "name": "Farinha de trigo",
-          "amount": "1kg"
+          "name": "Leite",
+          "amount": "3 xícaras (chá)"
         },
         {
           "id": "2",
           "name": "Óleo",
-          "amount": "1/2 xícara (chá)"
+          "amount": "1 xícara (chá)"
         },
         {
           "id": "3",
-          "name": "Sal",
-          "amount": "1 colher sopa"
+          "name": "Farinha de trigo",
+          "amount": "2 e ½ colher"
         },
         {
           "id": "4",
-          "name": "Vinagre",
-          "amount": "1 colher (chá)"
+          "name": "Ovo",
+          "amount": "3"
         },
         {
           "id": "5",
-          "name": "Ovo",
-          "amount": "1"
+          "name": "Fermento em pó",
+          "amount": "1 colher"
         },
         {
           "id": "6",
-          "name": "Água",
-          "amount": "250 ml"
+          "name": "Queijo ralado",
+          "amount": "3 colheres (sopa)"
+        },
+        {
+          "id": "7",
+          "name": "Sal",
+          "amount": "1 pitada"
         }
       ],
       "instructions": [
         {
           "id": "1",
-          "text": "Misture os ingredientes em uma tigela e amasse com as mãos."
+          "text": "Bata no liquidificador o leite, os ovos e o óleo.."
         },
         {
           "id": "2",
-          "text": "Sove bem a massa sobre uma superfície lisa enfarinhada."
+          "text": "Junte a farinha de trigo, o fermento, o queijo e misture bem."
         },
         {
           "id": "3",
-          "text": "Utilize um rolo para esticar a massa e deixá-la na espessura desejada."
+          "text": "Em uma assadeira untada, despeje um pouco da massa."
         },
         {
           "id": "4",
-          "text": "Corte a massa no tamanho que quiser fazer os pastéis."
+          "text": "Coloque o recheio e cubra com o resto da massa."
         },
         {
           "id": "5",
-          "text": "Recheie de acordo com a sua preferência."
+          "text": "Leve ao forno até dourar."
         },
         {
           "id": "6",
-          "text": "Frite em óleo bem quente."
+          "text": "OBS: O recheio fica a seu gosto."
         }
       ]
     },
-    { 
+    {
       "id": "5",
-      "name":  "Pudim de leite condensado",
+      "name": "Pudim de leite condensado",
       "total_ingredients": "5",
       "time": 65,
       "cover": "https://i.imgur.com/24tEgVo.jpg",
-      "video":"https://youtu.be/0MJep0plDlw",
+      "video": "https://youtu.be/0MJep0plDlw",
       "ingredients": [
         {
           "id": "1",
@@ -314,60 +315,71 @@
         }
       ]
     },
-    { 
+    {
       "id": "6",
-      "name":  "Pizza frango com catupiry",
-      "total_ingredients": "5",
+      "name": "Pão de Forma",
+      "total_ingredients": "8",
       "time": 60,
-      "cover": "https://i.imgur.com/Tox2VkT.jpg",
-      "video":"https://youtu.be/EPD2igRTnfw",
+      "cover": "https://www.sabornamesa.com.br/media/k2/items/cache/c84bca2a562da7d1131a1d0c3f135dbe_XL.jpg",
+      "video": "https://youtu.be/EPD2igRTnfw",
       "ingredients": [
         {
           "id": "1",
-          "name": "File peito de frango",
-          "amount": "400g"
+          "name": "Fermento biológico",
+          "amount": "10g"
         },
         {
           "id": "2",
-          "name": "Orégano",
-          "amount": "4 colheres chá"
+          "name": "Leite morno",
+          "amount": "1 copo"
         },
         {
           "id": "3",
-          "name": "Catupiry",
-          "amount": "250g"
+          "name": "Ovo",
+          "amount": "3"
         },
         {
           "id": "4",
-          "name": "Queijo mussarela",
-          "amount": "400g"
+          "name": "Óleo",
+          "amount": "½ copo"
         },
         {
           "id": "5",
+          "name": "Queijo ralado",
+          "amount": "1 pacote"
+        },
+        {
+          "id": "6",
+          "name": "Açucar",
+          "amount": "½ xicara"
+        },
+        {
+          "id": "7",
           "name": "Sal",
-          "amount": "à gosto"
+          "amount": "1 pitada"
+        },
+        {
+          "id": "8",
+          "name": "Farinha de trigo",
+          "amount": "1kg"
         }
       ],
       "instructions": [
         {
           "id": "1",
-          "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
+          "text": "Passe no liquidificador os 7 primeiros ingredientes."
         },
         {
           "id": "2",
-          "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
+          "text": "Coloque essa mistura em uma tigela e acrescente a farinha até dar o ponto."
         },
         {
           "id": "3",
-          "text": "Espalhe o frango desfiado pela pizza."
+          "text": "Coloque essa massa em uma forma untada e polvilhada e deixe descansar por 2 horas."
         },
         {
           "id": "4",
-          "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
-        },
-        {
-          "id": "5",
-          "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
+          "text": "Mele a massa com a gema e leve ao forno até dourar."
         }
       ]
     }

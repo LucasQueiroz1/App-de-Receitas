@@ -24,7 +24,8 @@ export function FoodList({ data }) {
         <Text style={styles.name}>{data.name}</Text>
 
         <Text style={styles.description}>
-          {data.total_ingredients} ingredientes | {data.time} min
+          {data.total_ingredients} ingredientes
+          {/* | {data.time} min */}
         </Text>
       </View>
       <LinearGradient
