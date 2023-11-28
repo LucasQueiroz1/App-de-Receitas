@@ -83,9 +83,9 @@ export function Detail() {
       showsVerticalScrollIndicator={false}
     >
       <Pressable onPress={handleOpenVideo}>
-        {/* <View style={styles.playIcon}>
+        <View style={styles.playIcon}>
           <AntDesign name="playcircleo" size={56} color="#FAFAFA" />
-        </View> */}
+        </View>
         <Image
           source={{ uri: route.params?.data.cover }}
           style={styles.cover}
@@ -119,12 +119,12 @@ export function Detail() {
         <Instructions key={item.id} data={item} index={index} />
       ))}
 
-      {/* <Modal visible={showVideo} animationType="slide">
+      <Modal visible={showVideo} animationType="slide">
         <VideoView
           handleClose={() => setShowVideo(false)}
           videoUrl={route.params?.data.video}
         />
-      </Modal> */}
+      </Modal>
     </ScrollView>
   );
 }
