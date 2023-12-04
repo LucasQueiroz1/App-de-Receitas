@@ -26,7 +26,7 @@ export function Detail() {
   const [showVideo, setShowVideo] = useState(false);
   const [favorite, setFavorite] = useState(false);
 
-  // Serve para vereficar se tem um Parametro de Nome nos dados da Data, se tiver, o Header é alterado para o Nome do Parametro,
+  // Serve para vereficar se tem um Parametro de Nome nos dados do .data, se tiver, o Header é alterado para o Nome do Parametro,
   // caso não tenha, irá manter o texto 'Detalhes da receita'.
   useLayoutEffect(() => {
     async function getStatusFavorites() {
